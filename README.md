@@ -72,15 +72,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=graywhite&hide_border=true&bg_color=E0E0E0&icon_color=FF9900&title_color=FF9900&text_color=666666&border_radius=20" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=johnlouisejizdeortega&show_icons=true&theme=graywhite&hide_border=true&bg_color=E0E0E0&icon_color=FF9900&title_color=FF9900&text_color=666666&border_radius=20" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=graywhite&hide_border=true&background=E0E0E0&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=666666&sideLabels=666666&currStreakNum=FF9900&sideNums=FF9900&dates=666666&border_radius=20" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlouisejizdeortega&theme=graywhite&hide_border=true&background=E0E0E0&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=666666&sideLabels=666666&currStreakNum=FF9900&sideNums=FF9900&dates=666666&border_radius=20" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=graywhite&hide_border=true&bg_color=E0E0E0&title_color=FF9900&text_color=666666&border_radius=20" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlouisejizdeortega&layout=compact&theme=graywhite&hide_border=true&bg_color=E0E0E0&title_color=FF9900&text_color=666666&border_radius=20" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -90,7 +90,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=E0E0E0&color=666666&line=FF9900&point=FF9900&area=true&hide_border=true&border_radius=20" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnlouisejizdeortega&bg_color=E0E0E0&color=666666&line=FF9900&point=FF9900&area=true&hide_border=true&border_radius=20" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
@@ -101,7 +101,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF9900&background=E0E0E000&center=true&vCenter=true&width=300&height=50&lines=🏆+Achievements" alt="Achievements" />
   </h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=johnlouisejizdeortega&theme=flat&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -120,7 +120,7 @@
   <a href="mailto:youremail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <a href="https://github.com/johnlouisejizdeortega" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/yourprofile" target="_blank">
@@ -135,7 +135,7 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=FF9900&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=johnlouisejizdeortega&style=for-the-badge&color=FF9900&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <br/>

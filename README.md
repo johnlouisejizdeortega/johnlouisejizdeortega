@@ -68,11 +68,18 @@
   </h2>
 </div>
 
+<!-- Additional Stats Summary -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnlouisejizdeortega&theme=github&background=E0E0E0&title_color=FF9900&text_color=666666&icon_color=FF9900" alt="GitHub Summary" />
+</div>
+
+<br/>
+
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=johnlouisejizdeortega&show_icons=true&theme=graywhite&hide_border=true&bg_color=E0E0E0&icon_color=FF9900&title_color=FF9900&text_color=666666&border_radius=20" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=johnlouisejizdeortega&show_icons=true&theme=graywhite&hide_border=true&bg_color=E0E0E0&icon_color=FF9900&title_color=FF9900&text_color=666666&border_radius=20&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlouisejizdeortega&theme=graywhite&hide_border=true&background=E0E0E0&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=666666&sideLabels=666666&currStreakNum=FF9900&sideNums=FF9900&dates=666666&border_radius=20" alt="GitHub Streak" />
@@ -80,7 +87,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlouisejizdeortega&layout=compact&theme=graywhite&hide_border=true&bg_color=E0E0E0&title_color=FF9900&text_color=666666&border_radius=20" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlouisejizdeortega&layout=compact&theme=graywhite&hide_border=true&bg_color=E0E0E0&title_color=FF9900&text_color=666666&border_radius=20&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -90,7 +97,13 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnlouisejizdeortega&bg_color=E0E0E0&color=666666&line=FF9900&point=FF9900&area=true&hide_border=true&border_radius=20" alt="GitHub Activity Graph" />
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnlouisejizdeortega&bg_color=E0E0E0&color=666666&line=FF9900&point=FF9900&area=true&hide_border=true&border_radius=20&custom_title=John's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</div>
+
+<!-- Weekly Coding Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnlouisejizdeortega&theme=graywhite&hide_border=true&bg_color=E0E0E0&title_color=FF9900&text_color=666666&border_radius=20" alt="Coding Time Stats" />
 </div>
 
 <br/>

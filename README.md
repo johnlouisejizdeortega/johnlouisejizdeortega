@@ -48,29 +48,38 @@
   <!-- Futuristic Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
-  <!-- Activity & Streaks -->
-  <h2 align="center">🔥 Activity & Streaks</h2>
-  <div align="center" style="background:#ffffff; border-radius:20px; box-shadow: inset 9px 9px 18px #d1d1d1, inset -9px -9px 18px #ffffff; padding:25px; margin:20px;">
+ <!-- 🔥 Activity & Streaks -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=YOUR-USERNAME&hide_border=true&background=FFFFFF&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakNum=FF9900&currStreakLabel=FF9900&dates=444444&sideNums=FF9900&sideLabels=FF9900" height="180"/>  
+<h2 align="center">🔥 Activity & Streaks</h2>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&hide_border=true&bg_color=FFFFFF&color=FF9900&line=FF9900&point=444444&area=true&area_color=FFD9B3" height="180"/>  
+<div align="center" style="background:#ffffff; border-radius:20px; box-shadow: inset 9px 9px 18px #d1d1d1, inset -9px -9px 18px #ffffff; padding:25px; margin:20px;">
 
-  </div>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=johnlouisejizdeortega&hide_border=true&background=FFFFFF&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakNum=FF9900&currStreakLabel=FF9900&dates=444444&sideNums=FF9900&sideLabels=FF9900" height="180"/>  
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnlouisejizdeortega&hide_border=true&bg_color=FFFFFF&color=FF9900&line=FF9900&point=444444&area=true&area_color=FFD9B3" height="180"/>  
+
+</div>
 
   <!-- Futuristic Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
-  <!-- Showcase / Projects -->
-  <h2 align="center">🚀 Featured Projects</h2>
-  <div style="background:#ffffff; border-radius:20px; box-shadow:9px 9px 18px #d1d1d1, -9px -9px 18px #ffffff; padding:25px; margin:20px;">
-    <a href="https://github.com/YOUR-USERNAME/project1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project1&theme=graywhite&bg_color=FFFFFF&title_color=FF9900&icon_color=FF9900" />
-    </a>
-    <a href="https://github.com/YOUR-USERNAME/project2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project2&theme=graywhite&bg_color=FFFFFF&title_color=FF9900&icon_color=FF9900" />
-    </a>
-  </div>
+  <!-- 🚀 Featured Projects -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+  <a href="https://github.com/johnlouisejizdeortega/Online-Tenant-Booking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnlouisejizdeortega&repo=Online-Tenant-Booking-System&theme=default&bg_color=FFFFFF&title_color=FF9900&icon_color=FF9900&text_color=444444&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/johnlouisejizdeortega/Your-Other-Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnlouisejizdeortega&repo=Your-Other-Repo&theme=default&bg_color=FFFFFF&title_color=FF9900&icon_color=FF9900&text_color=444444&hide_border=true" />
+  </a>
+
+</div>
 
   <!-- Futuristic Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>

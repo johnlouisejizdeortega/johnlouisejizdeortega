@@ -39,27 +39,20 @@
   </h2>
 </div>
 
-<!-- Neumorphic White Banner for Tech Stack -->
-<div align="center" style="background: #ffffff; border-radius: 25px; box-shadow: inset 8px 8px 15px #d4d4d4, inset -8px -8px 15px #ffffff; padding: 30px; margin: 20px auto; max-width: 800px;">
-  <h3 style="color: #FF9900; margin-bottom: 20px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">💻 Frontend Development</h3>
+<!-- Neumorphic Styled Tech Badges -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=react,laravel,tailwind,firebase,figma,photoshop,illustrator,html,css,js,php,mysql" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="react"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
   <img src="https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=greensock&logoColor=white" alt="gsap"/>
-  
-  <br/><br/>
-  
-  <h3 style="color: #FF9900; margin-bottom: 20px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">⚙️ Backend Development</h3>
-  <img src="https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  
-  <br/><br/>
-  
-  <h3 style="color: #FF9900; margin-bottom: 20px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">🎨 Design & Tools</h3>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe-xd"/>
   <img src="https://img.shields.io/badge/Photoshop-31a8ff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/>
@@ -75,65 +68,46 @@
   </h2>
 </div>
 
-<!-- Neumorphic GitHub Stats with Inner Shadow -->
-<div align="center" style="background: #E0E0E0; border-radius: 25px; box-shadow: inset 12px 12px 24px #bebebe, inset -12px -12px 24px #ffffff; padding: 30px; margin: 20px auto; max-width: 900px;">
-  
-  <!-- GitHub Stats Cards -->
+<!-- Reliable GitHub Stats -->
+<div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 15px;">
-        <div style="background: #ffffff; border-radius: 20px; box-shadow: inset 6px 6px 12px #d4d4d4, inset -6px -6px 12px #ffffff; padding: 20px;">
-          <img src="https://github-readme-stats.vercel.app/api?username=johnlouisejizdeortega&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=FF9900&title_color=FF9900&text_color=333333" alt="GitHub Stats" />
-        </div>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=johnlouisejizdeortega&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&icon_color=FF9900&title_color=FF9900&text_color=333333" alt="GitHub Stats" />
       </td>
-      <td align="center" style="padding: 15px;">
-        <div style="background: #ffffff; border-radius: 20px; box-shadow: inset 6px 6px 12px #d4d4d4, inset -6px -6px 12px #ffffff; padding: 20px;">
-          <img src="https://streak-stats.demolab.com/?user=johnlouisejizdeortega&theme=default&hide_border=true&background=ffffff&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=333333&sideLabels=333333&currStreakNum=FF9900&sideNums=FF9900&dates=666666" alt="GitHub Streak" />
-        </div>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlouisejizdeortega&theme=default&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <!-- Top Languages Card -->
-  <div style="background: #ffffff; border-radius: 20px; box-shadow: inset 6px 6px 12px #d4d4d4, inset -6px -6px 12px #ffffff; padding: 20px; margin: 20px auto; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlouisejizdeortega&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=FF9900&text_color=333333" alt="Top Languages" />
-  </div>
-
 </div>
 
 <br/>
 
-<!-- Neumorphic Activity Graph -->
-<div align="center" style="background: #E0E0E0; border-radius: 25px; box-shadow: inset 10px 10px 20px #bebebe, inset -10px -10px 20px #ffffff; padding: 25px; margin: 20px auto; max-width: 900px;">
-  <h3 style="color: #FF9900; text-shadow: 2px 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px;">📈 Contribution Activity</h3>
-  <div style="background: #ffffff; border-radius: 15px; box-shadow: inset 4px 4px 8px #d4d4d4, inset -4px -4px 8px #ffffff; padding: 15px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnlouisejizdeortega&theme=github-compact&bg_color=ffffff&color=333333&line=FF9900&point=FF9900&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </div>
+<!-- Alternative Stats Display -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlouisejizdeortega&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=FF9900&text_color=333333" alt="Top Languages" />
 </div>
 
-<!-- Additional Neumorphic Stats Cards -->
-<div align="center" style="background: #E0E0E0; border-radius: 25px; box-shadow: inset 8px 8px 16px #bebebe, inset -8px -8px 16px #ffffff; padding: 25px; margin: 20px auto; max-width: 800px;">
-  <h3 style="color: #FF9900; text-shadow: 2px 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px;">📊 Detailed Analytics</h3>
-  
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <div style="background: #ffffff; border-radius: 15px; box-shadow: inset 4px 4px 8px #d4d4d4, inset -4px -4px 8px #ffffff; padding: 15px; margin: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnlouisejizdeortega&theme=default" alt="Repos per Language" />
-    </div>
-    <div style="background: #ffffff; border-radius: 15px; box-shadow: inset 4px 4px 8px #d4d4d4, inset -4px -4px 8px #ffffff; padding: 15px; margin: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnlouisejizdeortega&theme=default" alt="Most Commit Language" />
-    </div>
-  </div>
-  
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 15px;">
-    <div style="background: #ffffff; border-radius: 15px; box-shadow: inset 4px 4px 8px #d4d4d4, inset -4px -4px 8px #ffffff; padding: 15px; margin: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnlouisejizdeortega&theme=default" alt="Stats" />
-    </div>
-    <div style="background: #ffffff; border-radius: 15px; box-shadow: inset 4px 4px 8px #d4d4d4, inset -4px -4px 8px #ffffff; padding: 15px; margin: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnlouisejizdeortega&theme=default&utcOffset=8" alt="Productive Time" />
-    </div>
-  </div>
+<br/>
+
+<!-- GitHub Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnlouisejizdeortega&theme=default" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnlouisejizdeortega&theme=default" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnlouisejizdeortega&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnlouisejizdeortega&theme=default&utcOffset=8" alt="Productive Time" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnlouisejizdeortega&theme=github-compact&bg_color=ffffff&color=333333&line=FF9900&point=FF9900&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </div>
 
 <br/>

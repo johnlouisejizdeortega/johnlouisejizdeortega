@@ -8,7 +8,7 @@
   </p>
 
   <!-- Futuristic Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
   <!-- About Me Card -->
   <div style="background:#ffffff; border-radius:20px; box-shadow:9px 9px 18px #d1d1d1, -9px -9px 18px #ffffff; padding:25px; margin:20px;">
@@ -24,7 +24,7 @@
   </div>
 
   <!-- Futuristic Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
   <!-- Tech Stack -->
   <h2 align="center">🛠️ Tech Stack</h2>
@@ -33,7 +33,7 @@
   </div>
 
   <!-- Futuristic Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
   <!-- GitHub Stats with Fixed Streak -->
   <h2 align="center">📊 GitHub Stats</h2>
@@ -43,12 +43,12 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=FF9900)
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=default&hide_border=true&background=FFFFFF&ring=FF9900&fire=FF9900&currStreakLabel=FF9900)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=transparent&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&dates=444444)
 
   </div>
 
   <!-- Futuristic Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
   <!-- Showcase / Projects -->
   <h2 align="center">🚀 Featured Projects</h2>
@@ -62,7 +62,7 @@
   </div>
 
   <!-- Futuristic Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%"/>
 
   <!-- Contact -->
   <h2 align="center">📫 Connect with Me</h2>
